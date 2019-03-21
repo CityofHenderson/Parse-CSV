@@ -1,0 +1,9 @@
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\bin\Debug\Parse CSV.exe
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\bin\Debug\Parse CSV.pdb
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\bin\Debug\Parse CSV.xml
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\obj\Debug\Parse CSV.vbproj.GenerateResource.Cache
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\obj\Debug\Parse CSV.exe
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\obj\Debug\Parse CSV.xml
+C:\Users\jshultz\Google Drive\Development\Ian\Parse CSV\Parse CSV\obj\Debug\Parse CSV.pdb
